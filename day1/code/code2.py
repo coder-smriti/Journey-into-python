@@ -1,10 +1,15 @@
-rom turtle import *
+from turtle import *
 pensize(2)
 forward(200)
 left(120)
 forward(200)
 left(120)
 forward(200)
-left(1200)
+left(120)
+left(120)
+forward(200)
+left(120)
+forward(200)
+left(120)
 forward(200)
 done()
